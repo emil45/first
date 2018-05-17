@@ -1,0 +1,17 @@
+{
+  "name": "first",
+  "version": "0.0.1",
+  "description": "Algo Robot",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RTSTM",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
